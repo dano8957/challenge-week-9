@@ -4,13 +4,13 @@ Daniel Nolan
 
 # How many points have you earned?
 
-76/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-~7
+10
 
 # When did you first start working on this week's learning challenges?
 
@@ -36,25 +36,25 @@ As stated in the video provided within the link, an example of H20 use was if yo
 
 # 1. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/zt1ngrE.png)
 
 [checkpoint](checkpoint.html)
 
 # 2. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/xv6uFl9.png)
 
 [checkpoint](checkpoint.html)
 
 # 3. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/kyTZ73n.png)
 
 [checkpoint](checkpoint.html)
 
 # 4. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/SKjjhT2.png)
 
 [checkpoint](checkpoint.html)
 
@@ -62,15 +62,15 @@ As stated in the video provided within the link, an example of H20 use was if yo
 
 # 1. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Fhnzj5r.png)
 
 # 2. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/mAKeWi2.png)
 
 # 3. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/fLBV6sG.png)
 
 [challenge3](challenge3.html)
 
