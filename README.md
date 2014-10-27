@@ -38,32 +38,32 @@ As stated in the video provided within the link, an example of H20 use was if yo
 
 ![image](http://i.imgur.com/zt1ngrE.png)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint1.html)
 
 # 2. (3 points)
 
 ![image](http://i.imgur.com/xv6uFl9.png)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint2.html)
 
 # 3. (3 points)
 
 ![image](http://i.imgur.com/kyTZ73n.png)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint3.html)
 
 # 4. (3 points)
 
 ![image](http://i.imgur.com/SKjjhT2.png)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint4.html)
 
 ## Challenges (4 points x 3 = 12 points)
 
 # 1. (4 points)
 
 ![image](http://i.imgur.com/Fhnzj5r.png)
-
+[challenge2b previous code](challenge2b.html)
 # 2. (4 points)
 
 ![image](http://i.imgur.com/mAKeWi2.png)
@@ -82,7 +82,7 @@ As stated in the video provided within the link, an example of H20 use was if yo
 
 ### 1 (6 points)
 
-[mongodb js code collecting github events about our course](mongodb-github.js)
+[mongodb js code collecting github events about our course](mongodb3.js)
 
 ### 2 (6 points)
 
